@@ -19,8 +19,8 @@ const Button = styled.button`
     outline: none;
   }
 
-  &hover,
-  &active {
+  &:hover,
+  &:active {
     background: #ac0e77;
     border-color: #ac0e77;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
